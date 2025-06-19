@@ -1,2 +1,23 @@
-# CodeClauseInternship_Text-Editor-
-📝 A simple Notepad-style text editor built with Python and Tkinter. Create, open, edit, and save .txt files with a clean and user-friendly interface. Built as part of the CodeClause Internship.
+# 📝 Simple Text Editor - Notepad Clone
+
+A basic Notepad-style text editor built using Python's Tkinter GUI library.
+
+## 👨‍💻 Developed By
+**Rithvik Reddy Gudipati**  
+CodeClause Internship Project
+
+## 💡 Features
+- Open, edit, and save `.txt` files
+- Clean and minimal user interface
+- Built with Python and Tkinter
+
+## 📷 Screenshot
+![screenshot](![![alt text](image-1.png)](image.png)) 
+
+## 🚀 How to Run
+
+1. Install Python (3.x)
+2. Run the following command:
+
+```bash
+python text_editor.py
