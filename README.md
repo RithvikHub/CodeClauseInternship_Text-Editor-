@@ -12,7 +12,7 @@ CodeClause Internship Project
 - Built with Python and Tkinter
 
 ## 📷 Screenshot
-(![alt text](image.png)
+![alt text](image.png)
 
 ## 🚀 How to Run
 
